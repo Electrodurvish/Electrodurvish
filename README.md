@@ -1,5 +1,5 @@
 
-![Banner Image](https://i.pinimg.com/originals/b2/42/ea/b242ea364c18e01322956ba7fe103d85.gif)
+![Banner Image](https://tse4.mm.bing.net/th?id=OIP.QKuEaTltDnZIO1aBKq1shAHaDT&pid=Api&P=0&h=180)
 
 <h1 align="center">Hi 👋, I'm Durvish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
