@@ -1,7 +1,7 @@
 
 ![Banner Image](https://i.pinimg.com/originals/b2/42/ea/b242ea364c18e01322956ba7fe103d85.gif)
 
-<h1 align="center">Hi 👋, I'm Ashish</h1>
+<h1 align="center">Hi 👋, I'm Durvish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
