@@ -1,5 +1,5 @@
 
-![Banner Image](https://tse4.mm.bing.net/th?id=OIP.QKuEaTltDnZIO1aBKq1shAHaDT&pid=Api&P=0&h=180)
+![Banner Image](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9d70ef73-ee0b-4abf-b97a-3389eff38ed5/d9qzqm8-242916ae-89d8-4da4-bfd4-93bef52e103a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzlkNzBlZjczLWVlMGItNGFiZi1iOTdhLTMzODllZmYzOGVkNVwvZDlxenFtOC0yNDI5MTZhZS04OWQ4LTRkYTQtYmZkNC05M2JlZjUyZTEwM2EuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DYvb7Sanh1SHlDEj6e748eHkUdk_Bjj8JB3CpmlHz8o)
 
 <h1 align="center">Hi 👋, I'm Durvish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
