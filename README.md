@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rahoriadurvish@gmail.com**
 
-- ⚡ Fun fact **naughty ho rha bhen ke lode**
+- ⚡ Fun fact **you can't sneeze with open eyes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
