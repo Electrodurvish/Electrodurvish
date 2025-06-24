@@ -22,25 +22,24 @@
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 
-<strong>Connect with Me</strong>
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li><a href="https://www.linkedin.com/">LinkedIn: Aryan Pandey</a></li>
-        <li><a href="https://twitter.com/notlelouchvb">Twitter: notlelouchvb</a></li>
-        <li><a href="https://github.com/notlelouch">GitHub: notlelouch</a></li>
-        <li><a href="mailto:notlelouchvb@gmail.com">Email: notlelouchvb@gmail.com</a></li>
-        <li><a href="https://nodeguardians.io/character/notlelouch">NodeGuardians: notlelouch</a></li>
-      </ul>
-    </td>
-    <td>
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notlelouch&theme=gotham&show_icons=true&hide_border=false&layout=compact&hide=jupyter%20notebook" alt="top langs" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://www.linkedin.com/in/durvish-rahoria-4b664a323/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/durvish/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/2022kue8vqa/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GFG" width="40" height="40" />
+  </a>
+  <a href="https://instagram.com/durrvish" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+</p>
+
+---
 
 ### 🛠️ Languages & Tools
 
@@ -52,7 +51,7 @@
 
 ### 📌 Pinned Projects
 
-#### 🔗 [Sociopedia 🎬](https://frontend-mern-green.vercel.app/)  
+#### 🔗 [Socopedia 🎬](https://frontend-mern-green.vercel.app/)  
 A dynamic full-stack social media platform enabling users to connect, post, like, and interact in real time.
 
 #### 🔗 [Zentry 🎮](http://gaming-landingpage-flame.vercel.app/)  
@@ -63,15 +62,7 @@ A modern real estate web app for browsing, filtering, and showcasing property li
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=electrodurvish&show_icons=true&theme=radical" alt="Durvish's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=electrodurvish&theme=radical" alt="GitHub streak stats" />
-</p>
+### 📊 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=electrodurvish&layout=compact&theme=radical" alt="Top languages" />
