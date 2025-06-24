@@ -25,8 +25,17 @@
 ### 🌐 Connect with me
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/durvish-rahoria-4b664a323/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/durvish/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/2022kue8vqa/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GFG" width="40" height="40" />
+  </a>
   <a href="https://instagram.com/durrvish" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
 
@@ -42,13 +51,13 @@
 
 ### 📌 Pinned Projects
 
-#### 🔗 [Socopedia 🎬](https://frontend-mern-green.vercel.app/)
+#### 🔗 [Socopedia 🎬](https://frontend-mern-green.vercel.app/)  
 A dynamic full-stack social media platform enabling users to connect, post, like, and interact in real time.
 
-#### 🔗 [Zentry 🎮](http://gaming-landingpage-flame.vercel.app/)
+#### 🔗 [Zentry 🎮](http://gaming-landingpage-flame.vercel.app/)  
 A visually immersive gaming landing page designed to captivate users with bold UI, sleek animations, and engaging calls-to-action.
 
-#### 🔗 [Property Listing App 🏠](https://property-listing-app-3ygb.vercel.app/)
+#### 🔗 [Property Listing App 🏠](https://property-listing-app-3ygb.vercel.app/)  
 A modern real estate web app for browsing, filtering, and showcasing property listings with intuitive UX and powerful search features.
 
 ---
