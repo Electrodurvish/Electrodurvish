@@ -56,31 +56,6 @@
 
 ---
 
-## 🚀 Featured Work
-
-<table align="center">
-  <tr>
-    <td align="center"><strong>Socopedia</strong><br/>
-      <a href="https://frontend-mern-green.vercel.app/">🌐 Live Demo</a><br/>
-      A full-stack social media platform to post, like, and interact with others.
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Zentry</strong><br/>
-      <a href="http://gaming-landingpage-flame.vercel.app/">🌐 Live Demo</a><br/>
-      A modern, animated gaming landing page with immersive UI.
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Property Listing App</strong><br/>
-      <a href="https://property-listing-app-3ygb.vercel.app/">🌐 Live Demo</a><br/>
-      A real estate web app for listing, browsing, and filtering properties.
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 Most Used Languages
 
 <p align="center">
