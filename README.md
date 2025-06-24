@@ -62,7 +62,7 @@
 #### 🔗 [social 🎬](https://frontend-mern-green.vercel.app/)
 A full-stack movie streaming web app using MERN stack with user authentication, watchlists, and real-time search.
 
-#### 🔗 [zentry 🎉](https://github.com/Electrodurvish/EventVerse)
+#### 🔗 [zentry 🎉](http://gaming-landingpage-flame.vercel.app/)
 An event management platform to create, join, and manage tech and cultural events with RSVP system and analytics.
 
 #### 🔗 [property listing app✍️](https://property-listing-app-3ygb.vercel.app/)
