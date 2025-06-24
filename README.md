@@ -51,7 +51,7 @@
 
 ### 📌 Pinned Projects
 
-#### 🔗 [Socopedia 🎬](https://frontend-mern-green.vercel.app/)  
+#### 🔗 [Sociopedia 🎬](https://frontend-mern-green.vercel.app/)  
 A dynamic full-stack social media platform enabling users to connect, post, like, and interact in real time.
 
 #### 🔗 [Zentry 🎮](http://gaming-landingpage-flame.vercel.app/)  
