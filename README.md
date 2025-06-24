@@ -60,13 +60,13 @@
 > You can manually pin these from your GitHub profile UI, or showcase them like below:
 
 #### 🔗 [social 🎬](https://frontend-mern-green.vercel.app/)
-A full-stack movie streaming web app using MERN stack with user authentication, watchlists, and real-time search.
+A dynamic full-stack social media platform enabling users to connect, post, like, and interact in real time.
 
 #### 🔗 [zentry 🎉](http://gaming-landingpage-flame.vercel.app/)
-An event management platform to create, join, and manage tech and cultural events with RSVP system and analytics.
+ A visually immersive gaming landing page designed to captivate users with bold UI, sleek animations, and engaging calls-to-action.
 
 #### 🔗 [property listing app✍️](https://property-listing-app-3ygb.vercel.app/)
-Draw and download your signature digitally with support for color, undo, and multiple fonts.
+A modern real estate web app for browsing, filtering, and showcasing property listings with intuitive UX and powerful search features.
 
 ---
 
