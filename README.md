@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Durvish</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=440&lines=Full+Stack+MERN+Developer;
-    React+%7C+Next.js+%7C+MongoDB+%7C+Tailwind;
-    Clean+Code+%7C+Modern+UI+%7C+Smooth+UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=440&lines=Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+MongoDB+%7C+Tailwind;Clean+Code+%7C+Modern+UI+%7C+Smooth+UX" alt="Typing SVG" />
 </h3>
 
 ---
